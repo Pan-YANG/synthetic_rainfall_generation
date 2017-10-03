@@ -5,4 +5,4 @@ Use
 
 [results]=gen_rain_fields(rainfield_param,study_area_pos);
 
-to run the model. rainfield_param is a matlab structure with all the needed parameters. Read the paper for the definitions of these parameters.
+to run the model. rainfield_param is a matlab structure with all the needed parameters. Read the paper for the definitions of these parameters. An example set of parameters is provided in the file 'exam_rainfield_param.mat'.
